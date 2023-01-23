@@ -1,6 +1,6 @@
 # New Word Scrapper
 It's a program that collects data from the new world game. No less, no more, just collects data.
-I created it to support the hard word of the small indie gaming studio, Amazon.
+I created it to support the hard work of the small indie gaming studio, Amazon.
 
 ## How it works?
 Before you can open a scrapper, you must have a game instance open with your character logged. If you want to scrap market information, you must first open the market GUI.
