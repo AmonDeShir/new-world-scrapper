@@ -1,4 +1,4 @@
-import { moveMouse } from "robotjs";
+import { moveMouse, mouseClick } from "robotjs";
 
 export namespace Mouse {
   export function move(x: number, y: number) {
@@ -6,18 +6,18 @@ export namespace Mouse {
   }
 
   export function leftClick() {
-
+    mouseClick("left", false);
   }
 
   export function rightClick() {
-
+    mouseClick("right", false);
   }
 
   export function leftDBClick() {
-
+    mouseClick("left", true);
   }
 
   export function rightDBClick() {
-    
+    mouseClick("right", true);
   }
 }
