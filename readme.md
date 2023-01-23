@@ -30,7 +30,7 @@ There isn't. Even if I wanted to create on, and I don't, I don't have windows/ma
 <br>windows: idk
 
 3. Download prebuild version
-I don't provide any prebuild version yet, so you need to build one yourself.
+<br>I don't provide any prebuild version yet, so you need to build one yourself.
 
 4. Create config.yml file
 <br> arch: `touch config.yml`
