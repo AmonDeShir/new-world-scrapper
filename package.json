@@ -1,7 +1,7 @@
 {
   "name": "new-world-scrapper",
   "version": "0.0.1",
-  "description": "Simple data scrapper from the amazon's new world",
+  "description": "Simple data scrapper for the amazon's new world",
   "main": "./src/main.ts",
   "repository": "https://github.com/AmonDeShir/new-world-scrapper",
   "author": "AmonDeShir",
