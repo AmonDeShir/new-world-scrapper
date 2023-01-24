@@ -33,7 +33,7 @@ There isn't. Even if I wanted to create on, and I don't, I don't have windows/ma
 <br> windows: idk
 
 2. Install tesseract-ocr on your computer 
-<br>arch: `pacman -S tesseract-ocr`
+<br>arch: `pacman -S tesseract`
 <br>debian: `apt-get install tesseract-ocr`
 <br>mac: idk
 <br>windows: idk
