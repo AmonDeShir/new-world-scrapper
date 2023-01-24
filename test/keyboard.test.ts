@@ -93,7 +93,7 @@ describe("Keyboard", () => {
       Keyboard.typeText('I am an example text');
 
       expect(typeString.callCount).is.equal(1);
-      expect(typeString.args).is.eqls([["I am an example text", 90]]);
+      expect(typeString.args).is.eqls([["I am an example text", 200]]);
     })
   })
 })
