@@ -52,7 +52,7 @@ There isn't. Even if I wanted to create on, and I don't, I don't have windows/ma
 <br> `corepack enable`
 
 5. Clone this repository <br>
-`git clone https://github.com/AmonDeShir/new-world-scrapper` or just download zip package using git. 
+`git clone https://github.com/AmonDeShir/new-world-scrapper` or just download zip package from github. 
 
 7. Open it
 <br> `cd new-world-scrapper`
