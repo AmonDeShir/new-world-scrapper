@@ -29,9 +29,9 @@ export namespace Keyboard {
   }
 
   /**
-   * Emulate typing text on keyboard with speed of 90cpm
+   * Emulate typing text on keyboard with speed of 200cpm
    */
   export function typeText(text: string) {
-    typeStringDelayed(text, 90)
+    typeStringDelayed(text, 200)
   }
 }
