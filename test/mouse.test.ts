@@ -11,8 +11,8 @@ describe("Mouse", () => {
   
   before(() => {
     sandbox = sinon.createSandbox();
-    moveSpy = sandbox.spy(robotjs, "moveMouse");
-    clickSpy = sandbox.spy(robotjs, "mouseClick");
+    moveSpy = sandbox.stub(robotjs, "moveMouse");
+    clickSpy = sandbox.stub(robotjs, "mouseClick");
   });
 
   beforeEach(() => {
