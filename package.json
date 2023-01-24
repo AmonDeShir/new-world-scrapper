@@ -9,7 +9,8 @@
   "scripts": {
     "build": "yarn webpack --mode=production",
     "start": "yarn webpack --mode=development -w",
-    "test": "env TS_NODE_PROJECT=\"tsconfig.test.json\" nyc mocha -w"
+    "test": "env TS_NODE_PROJECT=\"tsconfig.test.json\" mocha -w",
+    "coverage": "env TS_NODE_PROJECT=\"tsconfig.test.json\" nyc mocha"
   },
   "devDependencies": {
     "@types/chai": "^4.3.4",
