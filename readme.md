@@ -8,7 +8,7 @@ Icon made by [Freepik](https://www.freepik.com) from [www.flaticon.com](https://
 [![Documentation](https://img.shields.io/badge/Documentation-Github-brightgreen.svg?style=for-the-badge)](https://github.com/AmonDeShir/new-world-scrapper#how-to-use)
 [![Unicorn](https://img.shields.io/badge/unicorn-approved-ff69b4?style=for-the-badge)](https://www.youtube.com/watch?v=9auOCbH5Ns4)
 
-**new world scrapper** is a program that collects data from the new world game. No less, no more, just collects data.
+**New World Scrapper** is a program that collects data from the new world game. No less, no more, just collects data.
 I created it to support the hard work of the small indie gaming studio, Amazon.
 
 ## How it works?
